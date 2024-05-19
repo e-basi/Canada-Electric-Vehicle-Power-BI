@@ -2,7 +2,7 @@
 This project analyzes the Canadian electric vehicle (EV) population. It includes data on total vehicles, average electric range, battery electric vehicles, plug-in hybrid electric vehicles, and breakdowns by model year, province, and brand. The goal is to provide insights into EV adoption and distribution across Canada.
 ## Project Structure
 
-- `Canadian_Electric_Vehicle_Population_Data.csv`: Contains raw data on the electric vehicle population in Canada.
+- `Kaggle  (Canadian_Electric_Vehicle_Population_Data.csv)`: An online community of open-source datasets containing raw data on the electric vehicle population / Different Data
 - `Canada Electric Vehicle Report.pdf`: A detailed report summarizing the key findings from the data analysis.
 - `Canada Electric Vehicle Report.pbix`: A Power BI file that includes visualizations and interactive dashboards based on the data.
 
