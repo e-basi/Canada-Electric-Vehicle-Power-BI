@@ -14,6 +14,9 @@ This project analyzes the Canadian electric vehicle (EV) population. It includes
 - **Plug-in Hybrid Electric Vehicles (PHEV)**: 27K (24%)
 - **Top Brands**: Tesla, Nissan, Chevrolet, Ford, BMW
 - **Top Models**: Model 3, Model Y, Leaf, Model S, Bolt EV
+- 
+![Screenshot (2)](https://github.com/e-basi/Canada-Electric-Vehicle-Power-BI/assets/93174387/1990b051-c932-4e86-b339-aa26e52c8aec)
+
 
 ## Tools and Technologies
 
