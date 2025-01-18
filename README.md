@@ -19,7 +19,7 @@ This project analyzes the Canadian electric vehicle (EV) population. It includes
 
 
 ## Tools and Technologies
-
+- **Python**
 - **Excel**
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **Git**: For version control.
